@@ -1,0 +1,108 @@
+QUESTION 1 OUTPUT
+
+Product CRUD Operations
+1. Create Product
+2. Read All Products
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 1
+Enter Product ID: 101
+Enter Product Name: Mouse
+Enter Price: 599.99
+Enter Quantity: 25
+Product created successfully.
+
+Product CRUD Operations
+1. Create Product
+2. Read All Products
+3. Update Product
+4. Delete Product
+5. Exit
+Choose an option: 2
+ID         Name                 Price      Quantity  
+101        Mouse                599.99     25        
+
+Product CRUD Operations
+Choose an option: 3
+Enter Product ID to update: 101
+Enter new Product Name: Wireless Mouse
+Enter new Price: 699.50
+Enter new Quantity: 20
+Product updated successfully.
+
+Product CRUD Operations
+Choose an option: 2
+ID         Name                 Price      Quantity  
+101        Wireless Mouse       699.50     20        
+
+Product CRUD Operations
+Choose an option: 4
+Enter Product ID to delete: 101
+Product deleted successfully.
+
+Product CRUD Operations
+Choose an option: 2
+(no products shown)
+
+Product CRUD Operations
+Choose an option: 5
+Exiting...
+
+QUESTION 2 OUTPUT
+
+Student Management System
+1. Add Student
+2. View All Students
+3. Update Student
+4. Delete Student
+5. Exit
+Choose an option: 1
+Enter ID: 1
+Enter Name: Alice
+Enter Department: CS
+Enter Marks: 89.5
+Student added successfully.
+
+Student Management System
+Choose an option: 1
+Enter ID: 2
+Enter Name: Bob
+Enter Department: IT
+Enter Marks: 75.0
+Student added successfully.
+
+Student Management System
+Choose an option: 2
+ID         Name                 Department     Marks     
+1          Alice                CS             89.50     
+2          Bob                  IT             75.00     
+
+Student Management System
+Choose an option: 3
+Enter ID to update: 2
+Enter New Name: Bobby
+Enter New Department: Data Science
+Enter New Marks: 80.0
+Student updated successfully.
+
+Student Management System
+Choose an option: 2
+ID         Name                 Department     Marks     
+1          Alice                CS             89.50     
+2          Bobby                Data Science   80.00     
+
+Student Management System
+Choose an option: 4
+Enter ID to delete: 1
+Student deleted successfully.
+
+Student Management System
+Choose an option: 2
+ID         Name                 Department     Marks     
+2          Bobby                Data Science   80.00     
+
+Student Management System
+Choose an option: 5
+Exiting...
+
